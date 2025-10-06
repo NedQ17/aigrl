@@ -1,0 +1,4 @@
+-- database: ./ai_girlfriend_db.sqlite
+
+SELECT * FROM messages;
+DELETE FROM messages
